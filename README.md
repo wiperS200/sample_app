@@ -5,7 +5,7 @@
 [Michael Hartl](http://www.michaelhartl.com/) 著
 で作られたサンプルアプリケーションです．
 
-##ライセンス
+## ライセンス
 
 [*Ruby on Rails チュートリアル*](https://railstutorial.jp/)内にある
 ソースコードはMITライセンスとBeerwareライセンスの下で公開されています．
